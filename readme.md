@@ -12,6 +12,19 @@ PUSHER_APP_CLUSTER=your pusher server
 
 https://pusher.com/
 
+## Screenshot
+
+<p align="center">
+<img width="250px" height="300px" title="Main" src="https://i.imgur.com/0dlrgGE.png">
+<img width="250px" height="300px" title="Typing" src="https://i.imgur.com/iSCijos.png">
+<img width="250px" height="300px" title="Chat Screen" src="https://i.imgur.com/9VrUDzJ.png">
+</p>
+
+<p align="center">
+<img width="300px" height="300px" title="Join Room" src="https://i.imgur.com/8UnkEWt.png">
+<img width="300px" height="300px" title="Leave Room" src="https://i.imgur.com/G2Zxq4e.png">
+</p>
+
 ##
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
