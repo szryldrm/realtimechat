@@ -1,7 +1,5 @@
 ## .env Setting
 
-<code>
-
 PUSHER_APP_ID=your pusher id
     
 PUSHER_APP_KEY=your pusher key
@@ -9,8 +7,6 @@ PUSHER_APP_KEY=your pusher key
 PUSHER_APP_SECRET=your pusher secret key
 
 PUSHER_APP_CLUSTER=your pusher server
-
-</code>
 
 ##
 
