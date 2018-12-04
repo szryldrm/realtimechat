@@ -1,3 +1,12 @@
+## .env Setting
+
+<code>
+PUSHER_APP_ID=**
+PUSHER_APP_KEY=**
+PUSHER_APP_SECRET=**
+PUSHER_APP_CLUSTER=**
+</code>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
